@@ -9,7 +9,7 @@ function Dashboard() {
     <Container className="p-4">
       <Row>
         <Col>
-          <div className="d-flex flex-column justify-content-center align-content-center vh-100">
+          <div className="d-flex flex-column justify-content-center">
             <Card className="text-center">
               <Card.Header>Dashboard</Card.Header>
               <Card.Body>
